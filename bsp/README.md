@@ -762,9 +762,9 @@ This document is based on the RT-Thread mainline repository and categorizes the 
 
 #### 🟢 K230 (RT-Smart)
 
-| BSP Name | GPIO | UART | I2C | RTC | ADC | PWM | SDIO | HWTimer | WDT | SPI |
-|----------|------|------|-----|-----|-----|-----|------|---------|-----|-----|
-| [k230](k230) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| BSP Name | GPIO | UART | I2C | RTC | ADC | PWM | SDIO | HWTimer | WDT | SPI | GNNE |
+|----------|------|------|-----|-----|-----|-----|------|---------|-----|-----|------|
+| [k230](k230) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 #### 🟢 Xuantie (RT-Smart)
 
